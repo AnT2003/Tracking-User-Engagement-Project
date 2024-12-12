@@ -77,6 +77,33 @@ Conclusion: Reject the null hypothesis (H0). This indicates that the engagement 
 ### General Recommendation:
 - Focus on retaining paying customers while leveraging the increased engagement of free-plan users to expand the platform's audience and potentially increase conversions.
 
+## Power BI Dashboard
+![image](https://github.com/user-attachments/assets/b074f42b-643f-4762-b0ef-7a0b3610b3d0)
+
+### Summary:
+1. Minutes Watched by Paid in 2021, 2022
+- 2021: Paying students watched 1.15M minutes.
+- 2022: Paying students watched 0.17M minutes.
+- Non-paying students show significantly lower engagement.
+
+2. Top 5 Students by Certificates Issued
+- Student 14700 has the highest number of certificates (35).
+- Other students earned between 15 and 21 certificates.
+
+3. Certificates vs Minutes
+- A positive correlation can be observed, where higher minutes watched tend to result in more certificates.
+- However, outliers exist (students with many minutes watched but fewer certificates).
+
+4. Average of Minutes Watched by Certificates
+- There is a noticeable increase in engagement (minutes watched) up to ~20 certificates.
+- After 20 certificates, average minutes watched fluctuates, possibly indicating diminishing returns.
+
+### Insight
+* Engagement Trends: Paying students watched significantly more minutes compared to non-paying students in both 2021 and 2022. Engagement (minutes watched) decreased in 2022 compared to 2021, indicating potential changes in platform usage or user interest.
+* Top Performers: A small subset of students contributes disproportionately to certificate earning, with Student 14700 being a clear standout.
+* Certificates and Engagement: Higher engagement (minutes watched) correlates with more certificates earned, but the relationship is not strictly linear. Students with many certificates may represent outliers with exceptionally high engagement.
+* Opportunity Areas: Non-paying students show minimal engagement, highlighting potential areas for improvement, such as incentivizing engagement through free or trial access. Efforts to sustain or increase engagement in 2022 could be revisited, given the decline from 2021.
+
 ## Prediction for Achivement
 - Plot for our prediction by Linear Regression Model:
 ![image](https://github.com/user-attachments/assets/abaf3b6e-786b-42e6-bfa9-7c49315935c8)
